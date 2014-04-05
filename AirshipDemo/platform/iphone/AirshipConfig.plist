@@ -1,0 +1,10 @@
+{
+	inProduction = NO;
+	developmentAppKey = "Your development app key";
+	developmentAppSecret = "Your development app secret key";
+	developmentLogLevel = 4;
+	producationAppKey = "Your production app key";
+	producationAppSecret = "Your production app secret";
+	productionLogLevel = 1;
+	analyticsEnabled = NO;
+}
